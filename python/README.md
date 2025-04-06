@@ -5,5 +5,5 @@
 - [Web scraping](https://github.com/s-tian-88/topics/blob/main/python/scraping.md)
 - [Iterators](https://github.com/s-tian-88/topics/blob/main/python/iterators.md)
 - [Generator](https://github.com/s-tian-88/topics/blob/main/python/generator.md)
-
+- [Decorators](https://github.com/s-tian-88/topics/blob/main/python/decorator.md)
 ---
